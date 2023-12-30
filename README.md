@@ -1,6 +1,10 @@
-# Food-Calories-Estimation-Using-Image-Processing-
-The problem can be simply stated as, given a set of food images with calibration object thumb with the food name and an unlabeled set of food images from the same group of food, identify food and estimate food volume and calories intake.
 
+# Food Calories Estimation Using Image Processing
+<img src="1.jpg" alt="python" width="150" height="190" align="right">
+
+
++ ###  Problem
+ The problem can be simply stated as, given a set of food images with calibration object thumb with the food name and an unlabeled set of food images from the same group of food, identify food and estimate food volume and calories intake.
 + ### Objectives
  1.	To detect food type by using Convolutional Neural Network (CNN)
  2.	To estimate food weight and calories of food
@@ -110,7 +114,6 @@ A mixture of methods including canny edge detection, watershed segmentation, mor
    2. Parisa Pouladzadeh, Abdulsalam Yassine, and Shervin Shirmohammadi, “Foodd: An image-based food detection dataset for calorie measurement,” in InternationalConferenceonMultimediaAssistedDietaryManagement, 2015
 
    3. Meghana M Reddy, “Calorie-estimation-from-food-images-opencv”, [Git repo](https://github.com/meghanamreddy/Calorie-estimation-from-food-images-OpenCV) , May 2016
-
 
 
 
